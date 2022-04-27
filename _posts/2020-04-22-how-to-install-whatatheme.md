@@ -1,7 +1,7 @@
 ---
 title: How to Install and use WhatATheme?
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
+post-image: https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fbuildersoft.com.mx%2Fmantenimiento-de-pc%2F&psig=AOvVaw1W3OFi7a8JyBzcdp4FuUz3&ust=1651106569217000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjF5rOBs_cCFQAAAAAdAAAAABAD
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
