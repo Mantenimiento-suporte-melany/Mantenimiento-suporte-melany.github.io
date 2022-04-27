@@ -1,7 +1,7 @@
 ---
 title: tipos de computadoras 
 layout: post
-post-image: https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fbuildersoft.com.mx%2Fmantenimiento-de-pc%2F&psig=AOvVaw1W3OFi7a8JyBzcdp4FuUz3&ust=1651106569217000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjF5rOBs_cCFQAAAAAdAAAAABAD
+post-image:  http://www.mujeresdeempresa.es/wp-content/uploads/2019/04/soporte-tecnico-con-inteligencia-artificial.jpg
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
