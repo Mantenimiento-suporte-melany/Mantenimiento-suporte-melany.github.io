@@ -1,5 +1,5 @@
 ---
-title: How to Install and use WhatATheme?
+title: tipos de computadoras 
 layout: post
 post-image: https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fbuildersoft.com.mx%2Fmantenimiento-de-pc%2F&psig=AOvVaw1W3OFi7a8JyBzcdp4FuUz3&ust=1651106569217000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjF5rOBs_cCFQAAAAAdAAAAABAD
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
@@ -10,19 +10,26 @@ tags:
 - theme
 ---
 
-# ¿Qué es el Mantenimiento Correctivo?
-Este tipo de mantenimiento no prevé planes de mantenimiento y, como consecuencia, la posibilidad de que las piezas de recambio en stock no sean suficientes es elevada. Además, también puede suceder que no haya ningún técnico de mantenimiento disponible para resolver el problema ya que los errores no son previstos con antelación.
-Aunque en algunos casos es inevitable, el mantenimiento correctivo tiene un mayor impacto financiero ya que en ciertas ocasiones implica una interrupción prolongada del equipo. Además, se puede evitar un porcentaje significativo de estos fallos si hubiere planes de mantenimiento preventivo programados.
+# ¿Qué es una computadora?
+Un computador, computadora u ordenador es una máquina digital programable, de funcionamiento electrónico, capaz de procesar grandes cantidades de datos a grandes velocidades. Así obtiene información útil que luego presenta a un operador humano, o transmite a otros sistemas mediante redes informáticas de distinto tipo.
+La computadora es la herramienta más versátil, potente y revolucionaria que el ser humano ha creado en su historia reciente. Representa el punto cumbre de la Revolución industrial, científica y tecnológica que presenció el siglo XX después de la Segunda Guerra Mundial.
 
- 
+Su presencia y popularización en nuestro tiempo no sólo cambió para siempre el modo de procesar la información en el mundo, sino también la manera de trabajar y concebir el trabajo, las formas de comunicarse a larga distancia, las formas de ocio, y muchas otras áreas de la vida cotidiana.
+
 ---
 
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
+**Hardware.** La parte física y tangible del sistema, o sea, sus componentes eléctricos y electrónicos, que cumplen con diversas funciones fundamentales, como la realización de cálculos o la alimentación eléctrica del sistema. De algún modo equivaldría al “cuerpo” de la computadora.
 
-### Home Page -
-* A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.
-* An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.
-* A Contact section - A section where you can include 3 direct ways to contact<br>
+
+###  Software  -
+*Tipos de software por funcionalidad:Los tipos de software que existen se pueden clasificar en tres grandes grupos de acuerdo con las funciones que habilitan. De esta forma, hablamos de software de aplicación (dentro del cual encontramos, a su vez, el software de gestión), software de programación y software de sistema.
+* Software de aplicación:Dentro de este tipo de software podemos encontrar diferentes herramientas que incluyen desde bases de cálculo, programas de empresa o de diseño. Su ámbito es muy amplio y abarca ofimática y editores de texto, programas que permiten realizar diversas funciones enfocadas hacía elámbito recreativo o laboral.
+*Software de gestión:Los diferentes tipos de software de gestión se incluirían dentro de los denominados software de aplicación, como herramientas que facilitan todos los aspectos relacionados con la gestión integral de la empresa: desde contabilidad o la facturación a la gestión de la nómina o de los impuestos. Destacamos algunos ejemplos:  
+Los programas de gestión contable permiten el seguimiento contable de la propia empresa o para un cliente de forma ágil y eficiente. Los más avanzados permiten integrar la contabilidad con la fiscalidad y presentar de forma directa a la Adminsitración los modelos fiscales. 
+Además de facturar de forma ágil e intuitiva, el software de facturación contribuye a la gestión global del negocio. Además de un ahorro de tiempo, evitan errores manuales y permiten automatizar el proceso de facturación y mejorar la productividad.
+Los software de gestión de nóminas son soluciones de gestión laboral y RRHH que pueden utilizar desde Despachos Profesionales a empresas. Entre otras funciones, permiten desde la gestión de nóminas con procesos masivos, hasta la gestión de los empleados y documentación de RRHH. 
+El software fiscal, puesto que la normativa laboral y fiscal está en constante actualización, se ha convertido en uno de los elementos imprescindibles para la correcta presentación de los diferentes impuestos tanto de personas físicas (IRPF, Patrimonio, Sucesiones) como jurídicas (IVA e IS), de forma eficiente y segura.
+Finalmente, los programas ERP están diseñados para agilizar las tareas y mejorar la productividad global del negocio. Esto las convierten en un pilar básico, puesto que cuentan con funcionalidades que abarcan 360° en la gestión empresarial: gestión comercial, stocks, nóminas, facturación, contabilidad, etc. 
 `Ping on Messenger`<br>
 `Send an Email`<br>
 `Tweet on Twitter`<br>
