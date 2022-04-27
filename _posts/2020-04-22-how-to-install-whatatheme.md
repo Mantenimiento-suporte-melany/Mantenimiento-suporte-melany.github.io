@@ -10,11 +10,11 @@ tags:
 - theme
 ---
 
-# What is WhatATheme?
->You’ll find this post in your ***_posts*** directory. Go ahead and edit it and re-build the site to see your changes. >You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# ¿Qué es el Mantenimiento Correctivo?
+Este tipo de mantenimiento no prevé planes de mantenimiento y, como consecuencia, la posibilidad de que las piezas de recambio en stock no sean suficientes es elevada. Además, también puede suceder que no haya ningún técnico de mantenimiento disponible para resolver el problema ya que los errores no son previstos con antelación.
+Aunque en algunos casos es inevitable, el mantenimiento correctivo tiene un mayor impacto financiero ya que en ciertas ocasiones implica una interrupción prolongada del equipo. Además, se puede evitar un porcentaje significativo de estos fallos si hubiere planes de mantenimiento preventivo programados.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+ 
 ---
 
 **WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
