@@ -36,14 +36,17 @@ Finalmente, los programas ERP están diseñados para agilizar las tareas y mejor
 The contact section will also include 10 different social media buttons for your audience to follow.<br>
 `Facebook`, `Twitter`, `Instagram`, `LinkedIn`, `GitHub`, `YouTube`, `Reddit`, `Behance`, `Dribbble` & `Spotify`.
 
-### Blog -
-The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description & content of your post and shows the result as soon as you type.<br>
-The blog card includes
-* Post Title
-* 300 words from the content of the post
-* The publish date
-* The time which will be required to read the post.
+### El almacenamiento -
+Hoy me he puesto a trabajar en una máquina virtual que compartiré en mi comunidad privada y no tenía espacio en los discos de virtualización, así que me he puesto a investigar máquina por máquina, hasta que una me está ocupando la friolera de 196GB!!! Una máquina virtual que utilizo para mi canal de YouTube secundario y que no tiene esta capacidad, es más, he iniciado la máquina y según Windows el espacio ocupado era de 51Gb casi 4 veces menos evidentemente esto es algo que hay que revisar de vez en cuando, ya que si disponemos de discos SSD para las máquinas virtuales por sus prestaciones, con el sobrecoste de estos debemos estar atentos a la optimización del almacenamiento.
 
+En este caso el problema viene de atrás, y al abrir la carpeta donde se encuentra el disco puedo encontrar lo siguiente.
+Aquí vemos dos tipos de archivos principalmente, los vhdx y los avhdx que están ahí supuestamente de cuando la máquina virtual se dedico a eso del internete de las cosillas.
+
+Si has tenido experiencias con los avhdx sabrás que cuanto menos los toquemos mejor, ya que estos son archivos de diferenciación entre el vhdx y estados de la máquina virtual, me explico para personas humanas…
+
+Cuando creas un punto de control o snapshot, el sistema genera uno de estos discos que será el que realmente guarda el estado de la máquina y seguirá trabajando en un vhdx, lo que pasa es que sin el avhdx el sistema no puede funcionar. Estos archivos son combinados por Hyper-V cuando eliminamos un punto de control.
+
+Por esto reducir el espacio ocupado es delicado, si elimino los archivos avhdx podría ser (aunque no debería) que me quedará sin máquina virtual, y esta máquina lleva generaciones en la familia.
 ### Projects -
 The Projects page will include all the projects from the **`projects.yml`** file which is present in the _data folder.<br>
 Projects will be showcased in a card-list format where each card will contain
