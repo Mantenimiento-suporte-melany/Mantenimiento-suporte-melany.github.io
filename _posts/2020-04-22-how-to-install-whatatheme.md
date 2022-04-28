@@ -2,8 +2,7 @@
 title: tipos de computadoras 
 layout: post
 post-image:  http://www.mujeresdeempresa.es/wp-content/uploads/2019/04/soporte-tecnico-con-inteligencia-artificial.jpg
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+description: Usamos cookies para personalizar y mejorar su experiencia en nuestro sitio, como se describe en la herramienta de consentimiento de cookies. Puede aceptar todas las cookies de nuestro sitio si hace clic en "Aceptar todo" o rechazar las cookies no esenciales si hace clic en "Rechazar todo"
 tags:
 - how to
 - setup
@@ -48,35 +47,44 @@ Cuando creas un punto de control o snapshot, el sistema genera uno de estos disc
 
 Por esto reducir el espacio ocupado es delicado, si elimino los archivos avhdx podría ser (aunque no debería) que me quedará sin máquina virtual, y esta máquina lleva generaciones en la familia.
 ### Projects -
-The Projects page will include all the projects from the **`projects.yml`** file which is present in the _data folder.<br>
-Projects will be showcased in a card-list format where each card will contain
-* An image related to the project
-* A Project Title
-* A Project Description of about 80 words
+En el mercado de las computadoras existe una amplia gama de empresas que ofrecen
+productos de alta tecnología, pero dichas empresas no prestan un servicio personalizado
+de garantía ni mantenimiento real. En Ciudad Quesada la gran parte de las empresas
+conocidas, brindan un servicio de garantía en el cual el cliente que adquiere el producto,
+debe llevar el equipo al establecimiento de la compañía para hacer efectiva dicha
+garantía.
+La idea que se piensa desarrollar es un negocio que se dedique a la venta, reparación y
+mantenimiento de computadoras a domicilio, además de soporte técnico por medio de
+una central de llamadas.
+Lo que se pretende es tener un pequeño local en donde se tengan los modelos de
+computadoras más recientes, además en el cual se establezca un centro de llamadas, en
+el que los clientes puedan utilizar como soporte técnico, igualmente se agiliza el proceso
+de servicio a domicilio ya que se establece un procedimiento que clasifica y determina
+cuales clientes y situaciones requieren el servicio a domicilio.
+Dicha prestación pretende brindar confianza y seguridad, al mismo tiempo que posee
+flexibilidad en horarios, ya que se contará con una jornada de lunes a viernes de ocho de
+la mañana a ocho y media de la noche, y sábados desde las diez de la mañana a las siete
+de la noche.
+Esta asistencia, no será solamente para las personas que hayan adquirido los equipos en
+la empresa, sino también para aquellas que los hayan obtenido en otro lugar, así las
+personas podrán observar y disfrutar de la calidad de los servicios además de conocer
+los productos que la empresa brinda.
 
-### Footer -
-The footer includes
-* A small about the author widget which show the same `Author Image` as mentioned in the about section of the Home page which includes `Name of the Author`, `Around 75 words about the author`.
-* A more link widget which includes a link to any extra page that you've created and a `Subscribe via RSS` link.
-* A Recent posts widget which will include latest 3 posts.
 
-#### Extra Features -
-WhatATheme comes pre installed with
-* **HTML Compressor** - It'll compress all the pages by removing any extra space or blank lines.
-* **Google Analytics** - A web analytics service offered by Google that tracks and reports website traffic. For more information [click here](https://analytics.google.com){:target="blank"}.
-* **Disqus** - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus [click here](https://help.disqus.com/en/articles/1717053-what-is-disqus){:target="blank"}
+### Instalaciones electricas en media tension -
+Desarrollamos sus proyectos para acometidas me media tension en servicios industriales y comerciales, colocación de postes, cableado XLP, registros bajo norma CFE, transformadores pedestales y subestaciones compactas y subcompactas, tableros de control, y de distribución, plantas de emergencia todo bajo normas CFE y NOM.
+#### Gestion de tramites y contratos con CFE -
 
-	##### For more information about WhatATheme [click here](https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md){:target="blank"}.
+Gestionamos sus contratos para servicios de media tension con CFE, todo la tramitología y el desarrollo de planos y memorias de cálculos de acuerdo con las normas CFE, desde la solicitud de servicio, factibilidad y aprobación de proyecto hasta la entrega con CFE.
+
 
 ---
 
-# Installation
-### Step 1 - Setting up WhatATheme
-> * Fork the [repository](https://github.com/thedevslot/WhatATheme/tree/master){:target="blankl"}
-> * Go to repository settings and set Github Pages source as master.
-> * Your new site should be ready at [https://username.github.io/WhatATheme/](#){:target="blank"}
+# Instalaciones Solares
+Desarrollamos proyectos de energia solar, tanto del tipo isla como del tipo interconectado con la red de CFE, que generan ahorros de energia, mediante nuestra metodología no solo te generamos una planta de energia solar si no que tomamos en cuenta toda tu instalación y analizamos tu estado actual de tus instalación para poder tomar en cuanta un proyecto integral energético, no solo que genere energia electrica si que en un principio sea eficiente en el uso de energia electrica antes de comenzar a generar energia, que todas las instalaciones estén de acuerdo a normas y organizadas y entonces si es momento de poder proponer un sistema solar que se adapte a sus necesidades y sea lo mas productivo posibles
 
-### Step 2 - Making changes via **_config.yml**
-> * Open _config.yml file
-> * Fill the available details accordingly
-> * Commit the changes
+### Cableado estructurado
+Desarrollo de instalaciones para cableado estructurado, CAT6 para oficinas, instalaciones en sites de computo para el uso en redes de datos y voz, cctv, control de accesos, etc. 
+
+### Instalaciones electricas en media tension**
+ Desarrollamos sus proyectos para acometidas me media tension en servicios industriales y comerciales, colocación de postes, cableado XLP, registros bajo norma CFE, transformadores pedestales y subestaciones compactas y subcompactas, tableros de control, y de distribución, plantas de emergencia todo bajo normas CFE y NOM. 
