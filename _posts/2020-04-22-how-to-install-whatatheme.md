@@ -16,9 +16,6 @@ La computadora es la herramienta más versátil, potente y revolucionaria que el
 Su presencia y popularización en nuestro tiempo no sólo cambió para siempre el modo de procesar la información en el mundo, sino también la manera de trabajar y concebir el trabajo, las formas de comunicarse a larga distancia, las formas de ocio, y muchas otras áreas de la vida cotidiana.
 
 
-https://i.gifer.com/9Wmb.gif
-
-
 ---
 
 **Hardware.** La parte física y tangible del sistema, o sea, sus componentes eléctricos y electrónicos, que cumplen con diversas funciones fundamentales, como la realización de cálculos o la alimentación eléctrica del sistema. De algún modo equivaldría al “cuerpo” de la computadora.
