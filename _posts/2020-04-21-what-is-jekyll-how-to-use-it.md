@@ -1,7 +1,7 @@
 ---
-title: What is Jekyll? How to use it?
+title: tipos de mouse
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+post-image:  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sweetesthome.mx%2Fmouse-logitech%2F&psig=AOvVaw2vBGTreO0rxzVwPiBLinnD&ust=1651192955291000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCICixp_DtfcCFQAAAAAdAAAAABAK
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
