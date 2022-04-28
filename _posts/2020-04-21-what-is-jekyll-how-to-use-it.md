@@ -1,16 +1,30 @@
 ---
-title: tipos de mouse
+title: Tipos de mouse
 layout: post
-post-image:  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sweetesthome.mx%2Fmouse-logitech%2F&psig=AOvVaw2vBGTreO0rxzVwPiBLinnD&ust=1651192955291000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCICixp_DtfcCFQAAAAAdAAAAABAK
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+post-image: https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2Fdp%2FB07X8BM5KY&psig=AOvVaw1Jl3gyIaf1PZ1T8j7Wznm8&ust=1651204118934000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiEk-zstfcCFQAAAAAdAAAAABAF
+description: Los tipos de mouse son aquellos grupos de ‘ratones’ o mouse que abarcan todas las clases de este tipo de periféricos,Además a modo aclaratorio, como bien se ha podido deducir, el término anglosajón ‘mouse’ traducido al español es ‘ratón’.
+Es decir, un ratón es un dispositivo exterior que suele estar ligado a otros dispositivos principales, tales como PC’s u ordenadores portátiles.
+blankblank
+advertisement
+advertisement
+
+
+
 tags:
 - jekyll
 - informative
 - technology
 ---
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
+Tipos de mouse y sus características:
+
+Según sea el tipo de ratón este poseerá una serie de características específicas. Algunos de los factores que determinan con qué clase o tipo de mouse estamos tratando son:
+
+Conectividad: Este primer factor se basa en si la forma de conexión que tiene el ratón es de forma inalámbrica o si se basa en una conexión mediante cables.
+Diseño: En lo que respecta al diseño, el ratón puede estar concebido para una tarea en especial. Existen ratones orientados al mundo del gaming o videojuegos, a personas zurdas o a profesiones específicas. Un ejemplo sería el caso de los ergonómicos, que buscan la comodidad en profesiones de oficina.
+
+Tecnología: Este tercer y último factor es el más relevante, ya que es el que más ha evolucionado a lo largo de los años. Se trata de la forma en la que funciona el ratón y, por ende, el tipo de tecnología que utiliza para mostrar el trazado que realiza el usuario. Ejemplos son los ratones ópticos, láser, mecánicos o táctiles.
+Luego, si tenemos bien definidos los tres factores expuestos, sabremos con que tipo de ratón estamos tratando para así saber cómo se conecta, para qué está destinado y cómo funciona, respectivamente.
 ###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
