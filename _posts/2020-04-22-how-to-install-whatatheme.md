@@ -1,5 +1,5 @@
 ---
-title: tipos de computadoras 
+title: Informacion de computadoras  sofware y hadware
 layout: post
 post-image:  http://www.mujeresdeempresa.es/wp-content/uploads/2019/04/soporte-tecnico-con-inteligencia-artificial.jpg
 description: Usamos cookies para personalizar y mejorar su experiencia en nuestro sitio, como se describe en la herramienta de consentimiento de cookies. Puede aceptar todas las cookies de nuestro sitio si hace clic en "Aceptar todo" o rechazar las cookies no esenciales si hace clic en "Rechazar todo"
