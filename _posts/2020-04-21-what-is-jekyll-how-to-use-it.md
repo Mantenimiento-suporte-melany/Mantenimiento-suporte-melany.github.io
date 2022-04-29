@@ -24,5 +24,5 @@ Conectividad: Este primer factor se basa en si la forma de conexión que tiene e
 Diseño: En lo que respecta al diseño, el ratón puede estar concebido para una tarea en especial. Existen ratones orientados al mundo del gaming o videojuegos, a personas zurdas o a profesiones específicas. Un ejemplo sería el caso de los ergonómicos, que buscan la comodidad en profesiones de oficina.
 
 Tecnología: Este tercer y último factor es el más relevante, ya que es el que más ha evolucionado a lo largo de los años. Se trata de la forma en la que funciona el ratón y, por ende, el tipo de tecnología que utiliza para mostrar el trazado que realiza el usuario. Ejemplos son los ratones ópticos, láser, mecánicos o táctiles.
-Luego, si tenemos bien definidos los tres factores expuestos, sabremos con que tipo de ratón estamos tratando para así saber cómo se conecta, para qué está destinado y cómo funciona, respectivamente.
+Luego, si tenemos bien definidos los tres factores expuestos, sabremos con que tipo de ratón estamos tratando para así saber cómo se conecta, para qué está destinado y cómo funciona, respectivamente.  
 
