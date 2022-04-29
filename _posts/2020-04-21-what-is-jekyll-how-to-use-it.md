@@ -1,12 +1,12 @@
 ---
 title: Tipos de mouse
 layout: post
-post-image: https://image.made-in-china.com/2f0j00TatRHPfsuCoM/Gaming-Mouse-Mause-4000dpi-Adjustable-Computer-Optical-LED-Game-Mice-Wired-USB-Games-Cable-Mouse-Lol-for-Professional-Gamer.jpg 
-description: Los tipos de mouse son aquellos grupos de ratones o mouse que abarcan todas las clases de este tipo de periféricos Además a modo aclaratorio como bien se ha podido deducir el término anglosajón mouse traducido al español es ratón Es decir un ratón es un dispositivo exterior que suele estar ligado a otros dispositivos principales tales como PCs u ordenadores portátiles.
+post-image:  http://www.mujeresdeempresa.es/wp-content/uploads/2019/04/soporte-tecnico-con-inteligencia-artificial.jpg
+description: Usamos cookies para personalizar y mejorar su experiencia en nuestro sitio, como se describe en la herramienta de consentimiento de cookies. Puede aceptar todas las cookies de nuestro sitio si hace clic en "Aceptar todo" o rechazar las cookies no esenciales si hace clic en "Rechazar todo"
 tags:
-- jekyll
-- informative
-- technology
+- how to
+- setup
+- theme
 ---
 
 Tipos de mouse y sus características:
