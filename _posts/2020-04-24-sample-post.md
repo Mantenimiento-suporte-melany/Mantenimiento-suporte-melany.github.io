@@ -2,7 +2,7 @@
 title: teclados game 
 layout: post
 post-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuCiXIFYt_SXqVxSzFnJ8hwVjFH6wLY_ESQ&usqp=CAU
-description: los mauses son obticos 
+description: los mauses son opticos 
 tags:
 - sample
 - post
